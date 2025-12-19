@@ -1,0 +1,18 @@
+2025-12-18 16:33:33,313 - INFO - Employee 1 logged in
+2025-12-18 16:33:33,333 - INFO - Employee 1 logged out
+2025-12-18 16:33:33,349 - INFO - Employee 2 logged in
+2025-12-18 16:33:55,620 - WARNING - Duplicate login attempt by Employee 1
+2025-12-18 16:33:55,624 - WARNING - Duplicate login attempt by Employee 2
+2025-12-18 16:34:14,403 - WARNING - Duplicate login attempt by Employee 1
+2025-12-18 16:34:14,405 - WARNING - Duplicate login attempt by Employee 2
+2025-12-18 16:34:14,406 - WARNING - Employee 1 underworked (0.00 hrs)
+2025-12-18 16:35:46,183 - WARNING - Duplicate login attempt by Employee 1
+2025-12-18 16:35:46,187 - WARNING - Duplicate login attempt by Employee 2
+2025-12-18 16:35:46,188 - WARNING - Employee 1 underworked (0.00 hrs)
+2025-12-19 22:07:59,586 - INFO - Employee 1 logged in
+2025-12-19 22:07:59,601 - INFO - Employee 1 logged out
+2025-12-19 22:07:59,630 - INFO - Employee 2 logged in
+2025-12-19 22:07:59,634 - WARNING - Duplicate login attempt by Employee 2
+2025-12-19 22:27:02,815 - INFO - Employee 101 logged in
+2025-12-19 22:27:33,230 - INFO - Employee 101 logged out
+2025-12-19 22:28:20,441 - WARNING - Employee 101 underworked (0.01 hrs)

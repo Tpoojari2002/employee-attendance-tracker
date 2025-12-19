@@ -1,0 +1,17 @@
+Employee Login
+     ↓
+Check duplicate
+     ↓
+Insert login
+     ↓
+Employee Logout OR Auto Logout
+     ↓
+Calculate work hours
+     ↓
+Underwork check
+     ↓
+Store status
+     ↓
+Generate report
+     ↓
+Log everything
