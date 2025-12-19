@@ -44,7 +44,7 @@ def daily_attendance_report():
 
     records = cursor.fetchall()
 
-    print("\n📋 DAILY ATTENDANCE REPORT")
+    print("\n DAILY ATTENDANCE REPORT")
     print("-" * 60)
     print(f"{'Name':15}{'Login':20}{'Logout':20}{'Hours':8}{'Status'}")
     print("-" * 60)
@@ -61,3 +61,4 @@ def daily_attendance_report():
 
 update_attendance_status()
 daily_attendance_report()
+
